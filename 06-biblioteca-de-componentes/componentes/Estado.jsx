@@ -31,3 +31,5 @@ export default function Estado(props) {
 }
 
 const styles = StyleSheet.create({})
+
+rfns
